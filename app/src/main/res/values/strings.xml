@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Whats The Weather</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="aplikasi">Aplikasi ini menggambarkan kondisi cuaca setiap kota di dunia yang terkini yang disajikan melalui  desain dan fitur yang elegan. Lihat prakiraan cuaca seperti yang Anda tidak pernah lihat sebelumnya.</string>
+    <string name="tentang">Team Creative</string>
+    <string name="pembuat1">Denny Eko S / 311210011</string>
+    <string name="pembuat2">Edgar P/ 311210013</string>
+    <string name="pembuat3">Mohamad Risaldy / 311110029</string>
+    <string name="pembuat4">Adrianus Handhata/ 311110001</string>
+
+</resources>
